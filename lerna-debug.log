@@ -1,0 +1,10 @@
+42 error Error: Command failed with exit code 1: npm install --package-lock-only --ignore-scripts
+42 error npm ERR! code EUNSUPPORTEDPROTOCOL
+42 error npm ERR! Unsupported URL Type "workspace:": workspace:^
+42 error
+42 error npm ERR! A complete log of this run can be found in: C:\Users\LiWPKyrie\AppData\Local\npm-cache\_logs\2023-10-08T09_18_31_416Z-debug-0.log
+42 error     at makeError (C:\Users\LiWPKyrie\Desktop\青训营\项目实例\npm\DepSpy 一等奖\代码更新\depspy-master\node_modules\.pnpm\execa@5.1.1\node_modules\execa\lib\error.js:60:11)
+42 error     at handlePromise (C:\Users\LiWPKyrie\Desktop\青训营\项目实例\npm\DepSpy 一等奖\代码更新\depspy-master\node_modules\.pnpm\execa@5.1.1\node_modules\execa\index.js:118:26)
+42 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+42 error     at async VersionCommand.updatePackageVersions (C:\Users\LiWPKyrie\Desktop\青训营\项目实例\npm\DepSpy 一等奖\代码更新\depspy-master\node_modules\.pnpm\lerna@7.1.4\node_modules\lerna\dist\index.js:8300:13)
+42 error     at async Promise.all (index 0)
