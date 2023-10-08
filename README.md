@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cheerioinf-img.oss-cn-beijing.aliyuncs.com/img/logo_light_small.svg" alt="logo" width="400" />
+  <img src=".\packages\view\logo_light_small.svg" alt="logo" width="400" />
 </ p>
 
 ## 简介
